@@ -1,0 +1,12 @@
+pystac_client
+stackstac 
+dask 
+pyproj 
+numpy 
+matplotlib 
+shapely 
+rasterio 
+opencv-python-headless 
+scikit-image 
+imageio 
+tqdm
