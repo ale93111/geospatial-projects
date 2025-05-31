@@ -9,7 +9,7 @@ This project utilizes Sentinel-2 and Sentinel-1 satellite imagery to detect defo
 
 This project includes four main Python notebooks:
 
-1. **sentinel2_download.ipynb**: Downloads Sentinel-2 satellite images of a specified region within the Amazon rainforest and saves them to a tif file using the STACK API.
+1. **sentinel2_download.ipynb**: Downloads Sentinel-2 satellite images of a specified region within the Amazon rainforest and saves them to a tif file using the STAC API.
    
 2. **sentinel2_change_detection.ipynb**: Analyzes the changes in NDVI over time to detect areas where deforestation might have occurred. It outputs visualizations of these changes.
 
